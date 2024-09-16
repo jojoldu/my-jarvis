@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "my-jarvis",
   "version": "0.0.1",
   "description": "",
   "author": "",
@@ -13,6 +13,9 @@
     "coverage": "vitest run --coverage"
   },
   "dependencies": {
+    "@js-joda/core": "^5.6.3",
+    "@js-joda/locale": "^4.14.1",
+    "@js-joda/timezone": "^2.21.1",
     "@types/node-rsa": "^1.1.4",
     "cheerio": "^1.0.0",
     "lz-string": "^1.5.0",

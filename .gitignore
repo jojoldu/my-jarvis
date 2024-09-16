@@ -1,3 +1,6 @@
+# local test files
+*.html
+cookie.json
 # compiled output
 /dist
 /node_modules
